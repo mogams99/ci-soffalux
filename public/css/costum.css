@@ -37,3 +37,19 @@ a.nav-link.page-scroll {
 .lightbox-basic .btn-outline-reg.mfp-close.as-button{
     margin-left: 0;
 }
+.costum-text-1 {
+    font-family: 'Poppins';
+    font-size: small;
+    text-align: justify;
+}
+.costum-text-2 {
+    font-family: 'Poppins';
+    font-size: 10pt;
+    font-style: oblique;
+    text-align: justify;
+}
+.costum-text-3 {
+    font-family: 'Poppins';
+    font-size: 10.5pt;
+    text-align: justify;
+}

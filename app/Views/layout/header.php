@@ -9,7 +9,7 @@
                 <div class="col-lg-6">
                     <div class="text-container">
                         <h3>We Carry Your Trust</h3>
-                        <a class="btn-solid-lg page-scroll" href="#details">Intro</a>
+                        <a class="btn-solid-lg page-scroll" href="#details">Introduction</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->

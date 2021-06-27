@@ -112,12 +112,16 @@ h6 {
 
 .testimonial-text {
 	font-style: italic;
+	text-align: left;
+	font-size: medium;
+	font-family: "Poppins";
 }
 
 .testimonial-author {
 	font-weight: 700;
-	font-size: 1rem;
+	font-size: 0.950rem;
 	line-height: 1.5rem;
+	font-family: "Poppins";
 }
 
 .li-space-lg li {
@@ -172,12 +176,14 @@ a:hover {
 	line-height: 0;
 	text-decoration: none;
 	transition: all 0.2s;
+	font-family: "Poppins";
 }
 
 .btn-solid-reg:hover {
 	background: transparent;
 	color: #c2337b; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
+	font-family: "Poppins";
 }
 
 .btn-solid-lg {
@@ -192,12 +198,14 @@ a:hover {
 	line-height: 0;
 	text-decoration: none;
 	transition: all 0.2s;
+	font-family: "Poppins";
 }
 
 .btn-solid-lg:hover {
 	background: transparent;
 	color: #c2337b; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
+	font-family: "Poppins";
 }
 
 .btn-outline-reg {
@@ -374,12 +382,14 @@ input[type='checkbox'] {
 	line-height: 0;
 	cursor: pointer;
 	transition: all 0.2s;
+	font-family: "Poppins";
 }
 
 .form-control-submit-button:hover {
 	border: 1px solid #000000;
 	background: transparent;
 	color: #000000;
+	font-family: "Poppins";
 }
 
 /* Fade-move Animation For Details Lightbox - Magnific Popup */

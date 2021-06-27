@@ -6,6 +6,10 @@ class Dashboard extends BaseController
 {
 	public function index()
 	{
-		return view('page_dashboard');
+		$data = [
+			'title' => 'Web Company Profile - PT. Soffalux Berkah Jaya'
+		];
+
+		return view('content/main', $data);
 	}
 }
