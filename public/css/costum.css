@@ -53,3 +53,6 @@ a.nav-link.page-scroll {
     font-size: 10.5pt;
     text-align: justify;
 }
+.costum-border-1 {
+    border-radius: 60px;
+}

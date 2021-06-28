@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/header-logo.svg" alt="alternative">
+                        <img class="img-fluid costum-border-1" src="images/logo-costum.jpg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
@@ -14,7 +14,7 @@
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
-        <div class="services">
+        <div class="services costum-border-1">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">

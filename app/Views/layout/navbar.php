@@ -2,7 +2,7 @@
         <div class="container">
             
             <!-- Image Logo -->
-            <a class="navbar-brand logo-image" href="<?= base_url('/') ?>"><img src="images/logo.svg" alt="alternative"></a>  
+            <a class="navbar-brand logo-text page-scroll" href="<?= base_url('/') ?>">PT. Soffalux Berkah Jaya</a>  
 
             <!-- Text Logo - Use this if you don't have a graphic logo -->
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Spify</a> -->

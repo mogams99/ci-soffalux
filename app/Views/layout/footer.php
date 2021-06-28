@@ -3,11 +3,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer-col first">
-                        <h6 class="costum-align-text-1">About PT. Soffalux Berkah Jaya</h6>
+                        <h6 class="costum-align-text-1">Tentang Kami</h6>
                         <p class="p-small costum-align-text-1">Kami adalah perusahaan yang bergerak di bidang pengiriman barang baik menggunakan dry maupun reefer container. Kami melayani pengiriman barang ke seluruh wilayah Indonesia.</p>
                     </div> <!-- end of footer-col -->
                     <div class="footer-col second">
-                        <h6 class="costum-align-text-1">Our </h6>
+                        <h6 class="costum-align-text-1">Tentang Kami</h6>
                         <p class="p-small costum-align-text-1" hidden>Kami bekerjasama dengan perusahaan pelayaran terkemuka untuk mengirimkan barang baik menggunakan dry maupun reefer container</p>
                         <ul class="list-unstyled li-space-lg p-small">
                             <li><i class="fas fa-map-marker-alt"></i> Jl. Rungkut Barata Raya Blok SA, Rungkut Menanggal, Kec. Gn. Anyar, Kota SBY, Jawa Timur 60293</li>

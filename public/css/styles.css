@@ -463,11 +463,13 @@ input[type='checkbox'] {
 	font-size: 1.875rem;
 	line-height: 1rem;
 	text-decoration: none;
+	font-weight: "Poppins";
 }
 
 .offcanvas-collapse {
 	position: fixed;
-	top: 3.25rem; /* adjusts the height between the top of the page and the offcanvas menu */
+	top: 2.9rem;
+	/* top: 3.25rem; */
 	bottom: 0;
 	left: 100%;
 	width: 100%;
@@ -588,7 +590,7 @@ input[type='checkbox'] {
 /*****************/
 .header {
 	padding-top: 7rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/header-costum.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }

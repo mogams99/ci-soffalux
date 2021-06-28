@@ -15,7 +15,7 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-7" style="margin-bottom: auto;margin-top: auto;">
                     <div class="image-container">
-                        <img class="img-costum" src="images/details-1.png" alt="alternative">
+                        <img class="img-costum costum-border-1" src="images/intro-costum.jpg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -27,10 +27,10 @@
             <div class="row">
                 <div class="image-area">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/details-2.jpg" alt="alternative">
+                        <img class="img-fluid costum-border-1" src="images/services-costum.png" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of image-area -->
-                <div class="text-area">
+                <div class="text-area costum-border-1">
                     <div class="text-container">
                         <h2>Our Services</h2>
                         <hr class="hr-heading">
@@ -135,101 +135,11 @@
         </div> <!-- end of container -->
     </div> <!-- end of basic-3 -->
 
-    <div id="projects" class="slider-1">
-        <div class="container">
-        <div class="row">
-           <div class="tag-line-header">
-                <div class="col">
-                    <h3>Feed Back Costumer</h3>
-                </div>
-           </div>
-        </div>
-            <div class="row">
-                <div class="col-lg-12">      
-                    
-                    <!-- Text Slider -->
-                    <div class="slider-container">
-                        <div class="swiper-container text-slider">
-                            <div class="swiper-wrapper">
-                                
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="image-container">
-                                                <img class="img-fluid" src="images/project-1.jpg" alt="alternative">
-                                            </div> <!-- end of image-container -->
-                                        </div> <!-- end of col -->
-                                        <div class="col-lg-6">
-                                            <div class="text-container">
-                                                <h4 hidden>Online retailer shop</h4>
-                                                <p class="testimonial-text">"I am happy to have chosen Spify for our Shopify implementation. Their specialized experience helped the project and made it available 2 weeks prior the launch date for extensive testing"</p>
-                                                <div class="testimonial-author">Michael Smith - General Manager</div>
-                                            </div> <!-- end of text-container -->
-                                        </div> <!-- end of col -->
-                                    </div> <!-- end of row -->
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="image-container">
-                                                <img class="img-fluid" src="images/project-2.jpg" alt="alternative">
-                                            </div> <!-- end of image-container -->
-                                        </div> <!-- end of col -->
-                                        <div class="col-lg-6">
-                                            <div class="text-container">
-                                                <h4 hidden>Shopify ecommerce site</h4>
-                                                <p class="testimonial-text">"I am happy to have chosen Spify for our Shopify implementation. Their specialized experience helped the project and made it available 2 weeks prior the launch date for extensive testing"</p>
-                                                <div class="testimonial-author">Ronnie Blake - Sales Manager</div>
-                                            </div> <!-- end of text-container -->
-                                        </div> <!-- end of col -->
-                                    </div> <!-- end of row -->
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-
-                                <!-- Slide -->
-                                <div class="swiper-slide">
-                                    <div class="row">
-                                        <div class="col-lg-6">
-                                            <div class="image-container">
-                                                <img class="img-fluid" src="images/project-3.jpg" alt="alternative">
-                                            </div> <!-- end of image-container -->
-                                        </div> <!-- end of col -->
-                                        <div class="col-lg-6">
-                                            <div class="text-container">
-                                                <h4 hidden>Online fashion shop</h4>
-                                                <p class="testimonial-text">"I am happy to have chosen Spify for our Shopify implementation. Their specialized experience helped the project and made it available 2 weeks prior the launch date for extensive testing"</p>
-                                                <div class="testimonial-author">Nicole Richter - Development Manager</div>
-                                            </div> <!-- end of text-container -->
-                                        </div> <!-- end of col -->
-                                    </div> <!-- end of row -->
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
-
-                            </div> <!-- end of swiper-wrapper -->
-                            
-                            <!-- Add Arrows -->
-                            <div class="swiper-button-next"></div>
-                            <div class="swiper-button-prev"></div>
-                            <!-- end of add arrows -->
-
-                        </div> <!-- end of swiper-container -->
-                    </div> <!-- end of slider-container -->
-                    <!-- end of text slider -->
-
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of slider-1 -->
-
     <div id="about" class="basic-6">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="text-container bg-gray">
+                    <div class="text-container bg-gray costum-border-1">
                         <h2>About Us</h2>
                         <p class="costum-text-1">Kami adalah perusahaan yang bergerak di bidang pengiriman barang baik menggunakan dry maupun reefer container. Kami melayani pengiriman barang ke seluruh wilayah Indonesia.</p>
                         <ul class="list-unstyled li-space-lg" hidden>
@@ -248,7 +158,7 @@
                         </ul>
                     </div> <!-- end of text-container -->
                     <div class="image-container">
-                        <img class="img-fluid" src="images/about.jpg" alt="alternative">
+                        <img class="img-fluid costum-border-1" src="images/about-costum.jpg" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -261,9 +171,9 @@
                 <div class="col-lg-12">
                     <h2>Contact Us</h2>
                     <p class="p-heading costum-text-3">Untuk mendapatkan pelayanan yang komprehensiv dengan harga menarik, silahkan klik hotline WA atau hubungi kami sesuai no. telepon yang tertera di bawah ini.</p>
-                    <ul class="list-unstyled li-space-lg costum-top-contact" hidden>
+                    <ul class="list-unstyled li-space-lg costum-top-contact"    >
                         <li class="costum-text-2" hidden><i class="fas fa-map-marker-alt"></i>Jl. Rungkut Barata Raya Blok SA, Rungkut Menanggal, Kec. Gn. Anyar, Kota SBY, Jawa Timur 60293</li>
-                        <li class="costum-text-2" hidden><i class="fas fa-phone"></i> &nbsp;<a target="_blank"href="https://api.whatsapp.com/send/?phone=628121656595&text&app_absent=0">+62 812-1656-595</a></li>
+                        <li class="costum-text-2"><i class="fas fa-phone"></i> &nbsp;<a target="_blank"href="https://api.whatsapp.com/send/?phone=628121656595&text&app_absent=0">+62 812-1656-595</a></li>
                         <li hidden><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:contact@site.com">contact@site.com</a></li>
                     </ul>
                 </div> <!-- end of col -->
@@ -274,15 +184,15 @@
                     <!-- Contact Form -->
                     <form id="contactForm">
                         <div class="form-group costum-text-2">
-                            <input type="text" class="form-control-input" id="cname" required>
-                            <label class="label-control" for="cname">Name</label>
+                            <input type="text" class="form-control-input costum-border-1" id="cname" required>
+                            <label class="label-control" for="cname">Nama Lengkap</label>
                         </div>
                         <div class="form-group costum-text-2">
-                            <input type="email" class="form-control-input" id="cemail" required>
+                            <input type="email" class="form-control-input costum-border-1" id="cemail" required>
                             <label class="label-control" for="cemail">Email</label>
                         </div>
                         <div class="form-group">
-                            <button type="submit" class="form-control-submit-button">Submit</button>
+                            <button type="submit" class="form-control-submit-button">Kirim</button>
                         </div>
                     </form>
                     <!-- end of contact form -->
