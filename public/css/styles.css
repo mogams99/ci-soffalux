@@ -460,10 +460,10 @@ input[type='checkbox'] {
 .navbar .logo-text {
 	color: #ffffff;
 	font-weight: 700;
-	font-size: 1.875rem;
+	font-size: 2.5rem;
 	line-height: 1rem;
 	text-decoration: none;
-	font-weight: "Poppins";
+	font-family: "Poppins";
 }
 
 .offcanvas-collapse {
@@ -590,7 +590,7 @@ input[type='checkbox'] {
 /*****************/
 .header {
 	padding-top: 7rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/header-costum.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../images/header-costum.png') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -603,8 +603,8 @@ input[type='checkbox'] {
 	margin-bottom: 7rem;
 }
 
-.header h3 {
-	margin-bottom: 2rem;
+.header h2 {
+	/* margin-bottom: 2rem; */
 	color: #ffffff;
 	font-weight: lighter;
 }
@@ -1481,7 +1481,7 @@ a:hover.back-to-top {
 	}
 
 	.header .text-container {
-		margin-top: 3rem;
+		margin-top: 10rem;
 		margin-bottom: 0;
 		margin-left: 4rem;
 	}

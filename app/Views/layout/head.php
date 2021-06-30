@@ -27,7 +27,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="images/favicon.png">
+    <link rel="icon" href="images/icon-costum.png">
 
     <!-- Costum-CSS -->
-    <link href="<?= base_url() ?>/css/costum.css" rel="stylesheet">
+    <link href="css/costum.css" rel="stylesheet">

@@ -3,12 +3,14 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid costum-border-1" src="images/logo-costum.jpg" alt="alternative">
+                        <img class="img-fluid costum-border-1" src="images/logo-costum.png" alt="alternative">
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
-                <div class="col-lg-6">
+                <div class="col-lg-auto">
                     <div class="text-container">
-                        <h3>We Carry Your Trust</h3>
+                        <h2>PT. Soffalux Berkah Jaya</h2>
+                        <hr class="costum-hr-1">
+                        <h5>We Carry Your Trust</h5>
                         <a class="btn-solid-lg page-scroll" href="#details">Introduction</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->

@@ -56,3 +56,12 @@ a.nav-link.page-scroll {
 .costum-border-1 {
     border-radius: 60px;
 }
+
+.costum-hr-1{
+    border: 1px solid white;
+}
+.header h5 {
+	margin-bottom: 2rem;
+	color: #ffffff;
+	font-weight: lighter;
+}

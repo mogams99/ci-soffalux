@@ -2,7 +2,7 @@
         <div class="container">
             
             <!-- Image Logo -->
-            <a class="navbar-brand logo-text page-scroll" href="<?= base_url('/') ?>">PT. Soffalux Berkah Jaya</a>  
+            <a class="navbar-brand logo-text page-scroll" href="<?= base_url('/') ?>">Soffalux</a>  
 
             <!-- Text Logo - Use this if you don't have a graphic logo -->
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Spify</a> -->
@@ -24,16 +24,6 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#about" hidden>Contact Us</a>
-                    </li>
-                    <li class="nav-item dropdown" hidden>
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Drop</a>
-                        <div class="dropdown-menu" aria-labelledby="dropdown01">
-                            <a class="dropdown-item page-scroll" href="article.html">Article Details</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item page-scroll" href="terms.html">Terms Conditions</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item page-scroll" href="privacy.html">Privacy Policy</a>
-                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#contact">Contact Us</a>

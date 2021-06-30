@@ -173,7 +173,7 @@
                     <p class="p-heading costum-text-3">Untuk mendapatkan pelayanan yang komprehensiv dengan harga menarik, silahkan klik hotline WA atau hubungi kami sesuai no. telepon yang tertera di bawah ini.</p>
                     <ul class="list-unstyled li-space-lg costum-top-contact"    >
                         <li class="costum-text-2" hidden><i class="fas fa-map-marker-alt"></i>Jl. Rungkut Barata Raya Blok SA, Rungkut Menanggal, Kec. Gn. Anyar, Kota SBY, Jawa Timur 60293</li>
-                        <li class="costum-text-2"><i class="fas fa-phone"></i> &nbsp;<a target="_blank"href="https://api.whatsapp.com/send/?phone=628121656595&text&app_absent=0">+62 812-1656-595</a></li>
+                        <li class="costum-text-2" style="text-align: center;"><i class="fas fa-phone"></i> &nbsp;<a target="_blank"href="https://api.whatsapp.com/send/?phone=628121656595&text&app_absent=0">+62 812-1656-595</a></li>
                         <li hidden><i class="fas fa-envelope"></i> &nbsp;<a href="mailto:contact@site.com">contact@site.com</a></li>
                     </ul>
                 </div> <!-- end of col -->
